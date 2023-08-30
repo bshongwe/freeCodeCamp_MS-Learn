@@ -1,0 +1,14 @@
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
