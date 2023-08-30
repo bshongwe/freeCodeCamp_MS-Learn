@@ -206,13 +206,24 @@ fraudulentOrderIDs[2] = "C789";
 // }
 
 // array of int
-int[] inventory = { 200, 450, 700, 175, 250 };
-int sum = 0;
-int bin = 0;
-foreach (int items in inventory)
+// int[] inventory = { 200, 450, 700, 175, 250 };
+// int sum = 0;
+// int bin = 0;
+// foreach (int items in inventory)
+// {
+//     sum += items;
+//     bin++;
+//     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+// }
+// Console.WriteLine($"We have {sum} items in inventory.");
+
+// nested iteration and selection statements challenge activity
+string[] orderIDs = { "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179" };
+
+foreach (string orderID in orderIDs)
 {
-    sum += items;
-    bin++;
-    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+    if (orderID.StartsWith("B"))
+    {
+        Console.WriteLine(orderID);
+    }
 }
-Console.WriteLine($"We have {sum} items in inventory.");
