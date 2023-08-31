@@ -76,7 +76,7 @@ for (int i = 0; i < maxPets; i++)
     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
 }
 
-do// the ourAnimals array will store the following: 
+// the ourAnimals array will store the following: 
     string animalSpecies = "";
 string animalID = "";
 string animalAge = "";
