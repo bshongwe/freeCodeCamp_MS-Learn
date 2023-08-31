@@ -1,0 +1,14 @@
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/dev/Documents/freeCodeCamp_MS-Learn/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
