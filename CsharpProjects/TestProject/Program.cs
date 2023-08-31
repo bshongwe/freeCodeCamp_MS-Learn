@@ -294,22 +294,44 @@ Console.WriteLine($"{firstName} purchased {widgetsPurchased} widgets.");
    to the console window.
  */
 
-string originalMessage = "The quick brown fox jumps over the lazy dog.";
+// string originalMessage = "The quick brown fox jumps over the lazy dog.";
 
-char[] message = originalMessage.ToCharArray();
-Array.Reverse(message);
+// char[] message = originalMessage.ToCharArray();
+// Array.Reverse(message);
 
-int letterCount = 0;
+// int letterCount = 0;
 
-foreach (char letter in message)
+// foreach (char letter in message)
+// {
+//     if (letter == 'o')
+//     {
+//         letterCount++;
+//     }
+// }
+
+// string newMessage = new String(message);
+
+// Console.WriteLine(newMessage);
+// Console.WriteLine($"'o' appears {letterCount} times.");
+
+// Do and while challenge activity
+int hero = 10;
+int monster = 10;
+
+Random dice = new Random();
+
+do
 {
-    if (letter == 'o')
-    {
-        letterCount++;
-    }
-}
+    int roll = dice.Next(1, 11);
+    monster -= roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
 
-string newMessage = new String(message);
+    if (monster <= 0) continue;
 
-Console.WriteLine(newMessage);
-Console.WriteLine($"'o' appears {letterCount} times.");
+    roll = dice.Next(1, 11);
+    hero -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+} while (hero > 0 && monster > 0);
+
+Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
