@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqSTJew98I3VzOKiLBIDZWT13GOo2m2rqXLTFcY8Wn7ftfMMTT/vLDyK6qHbhYGyu9FYwmc2bS80LHbSfj2rlg==",
+  "success": true,
+  "projectFilePath": "/home/dev/Documents/freeCodeCamp_MS-Learn/Challenge-project-Create-methods-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
