@@ -1,4 +1,4 @@
-int target = 30;
+int target = 80;
 int[] coins = new int[] {5, 5, 50, 25, 25, 10, 5};
 int[,] result = TwoCoins(coins, target);
 
