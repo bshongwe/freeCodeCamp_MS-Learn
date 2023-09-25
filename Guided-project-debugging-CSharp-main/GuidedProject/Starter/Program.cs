@@ -114,7 +114,25 @@ static void LoadTillEachMorning(int[,] registerDailyStartingCash, int[] cashTill
 
 static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, int fives = 0, int ones = 0)
 {
-    string transactionMessage = "";
+    // MakeChange manages the transaction and updates the till 
+    string transactionMessage = MakeChange(itemCost, cashTill, paymentTwenties, paymentTens, paymentFives, paymentOnes);
+    
+    // Backup Calculation - each transaction adds current "itemCost" to the till
+    if (transactionMessage == "transaction succeeded")
+    {
+        Console.WriteLine($"Transaction successfully completed.");
+        registerCheckTillTotal += itemCost;
+    }
+    else
+    {
+        Console.WriteLine($"Transaction unsuccessful: {transactionMessage}");
+    }
+
+    try
+    {
+        // MakeChange manages the transaction and updates the till 
+        string transactionMessage = MakeChange(itemCost, cashTill, paymentTwenties, paymentTens, paymentFives, paymentOnes);
+    }
 
     cashTill[3] += twenties;
     cashTill[2] += tens;
